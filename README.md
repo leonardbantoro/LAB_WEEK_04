@@ -16,6 +16,11 @@ Part 2 - Bottom Navigation No. 15
 Part 3 - Tabbed Navigation No. 9
 <img width="1909" height="1022" alt="image" src="https://github.com/user-attachments/assets/6ae3a2b0-3c21-4e56-957d-d5465e8e8c6d" />
 
+Part 4 - Assignment
+<img width="1915" height="1024" alt="image" src="https://github.com/user-attachments/assets/acba9530-29be-4a72-82f9-724f24bd2a84" />
+<img width="1916" height="1024" alt="image" src="https://github.com/user-attachments/assets/b3b8f0bc-c46c-4485-9ee5-d89f6210306b" />
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/7782ae7c-520c-48ab-9c61-44014bddc143" />
+
 
 
 
