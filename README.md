@@ -13,6 +13,10 @@ Part 2 - Bottom Navigation No. 15
 <img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/c60370ae-bd51-416d-961a-f5d8260b1854" />
 <img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/aa9c0a27-9469-436f-962f-d952204807ab" />
 
+Part 3 - Tabbed Navigation No. 9
+<img width="1909" height="1022" alt="image" src="https://github.com/user-attachments/assets/6ae3a2b0-3c21-4e56-957d-d5465e8e8c6d" />
+
+
 
 
 
