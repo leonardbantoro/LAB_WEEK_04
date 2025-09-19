@@ -9,4 +9,10 @@ Part 1 - Navigation Drawer No. 48
 <img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/e94427ac-497d-4803-ad21-a039129afbec" />
 <img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/06e050b3-370a-49f5-9635-7286e1770337" />
 
+Part 2 - Bottom Navigation No. 15
+<img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/c60370ae-bd51-416d-961a-f5d8260b1854" />
+<img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/aa9c0a27-9469-436f-962f-d952204807ab" />
+
+
+
 
