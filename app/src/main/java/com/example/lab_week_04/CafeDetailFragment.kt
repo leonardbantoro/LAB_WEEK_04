@@ -9,7 +9,7 @@ import android.view.ViewGroup
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
-class FavoritesFragment : Fragment() {
+class CafeDetailFragment : Fragment() {
     private var param1: String? = null
     private var param2: String? = null
 
@@ -26,17 +26,17 @@ class FavoritesFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_favorites, container, false)
+        return inflater.inflate(R.layout.fragment_cafe_detail, container, false)
     }
 
-    companion object {
-        @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            FavoritesFragment().apply {
-                arguments = Bundle().apply {
-                    putString(ARG_PARAM1, param1)
-                    putString(ARG_PARAM2, param2)
-                }
-            }
-    }
+    //companion object {
+    //    @JvmStatic
+    //    fun newInstance(param1: String, param2: String) =
+    //        CafeDetailFragment().apply {
+    //            arguments = Bundle().apply {
+    //               putString(ARG_PARAM1, param1)
+    //                putString(ARG_PARAM2, param2)
+    //            }
+    //        }
+    //}
 }
